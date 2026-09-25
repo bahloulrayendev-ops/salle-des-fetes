@@ -1,0 +1,21 @@
+# Frontend dependencies and build output
+Salle des fetes FrontEnd/node_modules/
+Salle des fetes FrontEnd/dist/
+Salle des fetes FrontEnd/.vite/
+
+# Backend build output
+Salle des fetes BackEnd/target/
+Salle des fetes BackEnd/.mvn/wrapper/maven-wrapper.jar
+
+# Local environment and editor files
+**/.env
+**/.env.*
+**/.idea/
+**/.vscode/
+**/.junie/
+**/*.iml
+**/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
